@@ -11,10 +11,10 @@ Frontend project to consume api-colombia and show some interesting information a
      npm install
      ```
 
-2. Por último en el mismo directorio, ejecuta el comando de compilación:
+2. Ejecuta el comando de compilación:
 
    ```sh
    npm run prod
    ```
 
-   > 🚀 Inicia el liveserver de visual studio code.\
+3. 🚀 Abre el archivo index.html en tu navegador de preferencia o inicia el liveserver de visual studio code y visualiza el proyecto.
