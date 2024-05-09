@@ -1,0 +1,24 @@
+/**
+ * This injects Tailwind's base styles, which is a combination of
+ * Normalize.css and some additional base styles.
+ */
+@import 'tailwindcss/base';
+@import './base';
+
+#header {
+  background-size: contain;
+  background-image: url('../../sources/images/webpack.png');
+}
+
+/**
+ * This injects any component classes registered by plugins.
+ */
+@import 'tailwindcss/components';
+@import './components';
+
+/**
+ * This injects all of Tailwind's utility classes, generated based on your
+ * config file.
+ */
+@import 'tailwindcss/utilities';
+@import './utilities';

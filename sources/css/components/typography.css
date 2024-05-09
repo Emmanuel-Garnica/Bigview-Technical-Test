@@ -1,0 +1,4 @@
+.text-headline {
+  @apply font-sans text-4xl font-black leading-none tracking-tight text-indigo-400 uppercase font-headline;
+  @apply xl:text-4xl;
+}

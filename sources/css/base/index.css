@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'fonts';
+
+html {
+  scroll-behavior: smooth;
+
+  & body {
+    font-kerning: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply font-sans;
+  }
+}

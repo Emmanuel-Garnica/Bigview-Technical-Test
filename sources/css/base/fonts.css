@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../sources/fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../../sources/fonts/Roboto-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 800;
+  src: url('../../sources/fonts/Rubik-Black.woff2') format('woff2'),
+    url('../../sources/fonts/Rubik-Black.woff') format('woff');
+}

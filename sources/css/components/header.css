@@ -1,0 +1,5 @@
+
+
+#mainHeader {
+  @apply sm:bg-slate-500 text-red-500;
+}
